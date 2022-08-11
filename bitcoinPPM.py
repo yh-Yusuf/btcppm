@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[67]:
+# This code is converted from .ipynb form to .py thus, some code might look strange.
 
 
 import seaborn as sns
